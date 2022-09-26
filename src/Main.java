@@ -12,7 +12,7 @@ public class Main {
         //Задача 2
         int age = 50;
         if (age >= 24){
-            System.out.println("Ты закончил университет и пора искать работу.");
+            System.out.println("Ты закончил университет и пора искать работу!");
         }
         if (age >= 18){
             System.out.println("Ты закончил школу и можешь идти в университет.");
